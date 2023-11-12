@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue.js and Rust**
 
-- 👯 I’m looking to collaborate on [MezzCMS-Akiled](https://github.com/DevHabbos/MezzCMS-Akiled)
+- 👯 I’m  looking to collaborate on [MezzCMS-Akiled](https://github.com/DevHabbos/MezzCMS-Akiled)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
